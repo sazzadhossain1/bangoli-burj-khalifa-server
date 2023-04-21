@@ -1,0 +1,11 @@
+[
+  {
+    "id": 2,
+    "icon": "D",
+    "name": "Double Bed",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQljeIla6MTNPW_FDUCvGZ8R14XRluZL6eQ4N08KUFM7ytlDyuEWGzBwZEe8ZweZGkFs&usq",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid perspiciatis. Laudantium at dolores labore accusantium?",
+    "persone": "2",
+    "price": "150"
+  }
+]

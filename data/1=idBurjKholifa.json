@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "icon": "S",
+    "name": "Standard Room",
+    "img": "https://hotel.bold-themes.com/summer/wp-content/uploads/sites/2/2016/02/summer-single-room-1.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid perspiciatis. Laudantium at dolores labore accusantium?",
+    "persone": "1",
+    "price": "115"
+  }
+]

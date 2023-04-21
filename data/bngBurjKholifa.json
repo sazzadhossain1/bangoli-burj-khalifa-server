@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "icon": "S",
+    "name": "Standard Room",
+    "img": "https://hotel.bold-themes.com/summer/wp-content/uploads/sites/2/2016/02/summer-single-room-1.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid perspiciatis. Laudantium at dolores labore accusantium?",
+    "persone": "1",
+    "price": "115"
+  },
+  {
+    "id": 2,
+    "icon": "D",
+    "name": "Double Bed",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQljeIla6MTNPW_FDUCvGZ8R14XRluZL6eQ4N08KUFM7ytlDyuEWGzBwZEe8ZweZGkFs&usq",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid perspiciatis. Laudantium at dolores labore accusantium?",
+    "persone": "2",
+    "price": "150"
+  },
+  {
+    "id": 3,
+    "icon": "F",
+    "name": "Family Room",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzWfGC0afkCXmbuB69kfVptKwcciE5kNC_Zva7WvfDA&s",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid perspiciatis. Laudantium at dolores labore accusantium?",
+    "persone": "4",
+    "price": "200"
+  },
+  {
+    "id": 4,
+    "icon": "S",
+    "name": "Single Room",
+    "img": "https://23c133e0c1637be1e07d-be55c16c6d91e6ac40d594f7e280b390.ssl.cf1.rackcdn.com/responsive/4:3/1200px/u/phhk/home/1a-Superior-Single-Room-min1.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid perspiciatis. Laudantium at dolores labore accusantium?",
+    "persone": "1",
+    "price": "50"
+  },
+  {
+    "id": 5,
+    "icon": "C",
+    "name": "Common Bed Room",
+    "img": "https://23c133e0c1637be1e07d-be55c16c6d91e6ac40d594f7e280b390.ssl.cf1.rackcdn.com/responsive/21:9/1200px/u/phhk/home/2a-Superior-King-Room-min.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid perspiciatis. Laudantium at dolores labore accusantium?",
+    "persone": "2",
+    "price": "100"
+  },
+  {
+    "id": 6,
+    "icon": "S",
+    "name": "Special Room",
+    "img": "https://www.yaencontre.com/noticias/wp-content/uploads/2018/03/piece_4_biggest_home_aquariums_in_the_world_-see-here.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid perspiciatis. Laudantium at dolores labore accusantium?",
+    "persone": "2",
+    "price": "350"
+  }
+]

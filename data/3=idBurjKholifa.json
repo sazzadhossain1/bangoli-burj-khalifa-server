@@ -1,0 +1,11 @@
+[
+  {
+    "id": 3,
+    "icon": "F",
+    "name": "Family Room",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzWfGC0afkCXmbuB69kfVptKwcciE5kNC_Zva7WvfDA&s",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto voluptatibus facilis quo aliquid perspiciatis. Laudantium at dolores labore accusantium?",
+    "persone": "4",
+    "price": "200"
+  }
+]
